@@ -61,7 +61,7 @@ def bann_text():
       ██    ██  ██ ██  ██ ██ ▒ ██ ██  ██
       ██    █████▒ ▒████▒ ██   ██ █████▒
       ▒▒    ▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒
-                                         """ SURAJ YADAV
+                                         """
     if ASCII_MODE:
         logo = ""
     version = "Version: "+__VERSION__
